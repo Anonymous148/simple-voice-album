@@ -1,0 +1,83 @@
+============================================================
+Time  2016/10/10 00:06:30 448 
+============================================================
+[2016/10/10 00:06:30 451] waiter     120  waiter loaded!  
+[2016/10/10 00:06:30 487] network    380  redns  def  open.xf-yun.com  
+[2016/10/10 00:06:30 501] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:30 525] network    173  dns resp  10214  
+[2016/10/10 00:06:30 528] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/10 00:06:30 938] network    380  redns  def  open.xf-yun.com  
+[2016/10/10 00:06:30 944] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:30 951] network    173  dns resp  10214  
+[2016/10/10 00:06:30 952] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/10 00:06:31 231] waiter     183  start upload timer  
+[2016/10/10 00:06:31 234] waiter     184  false  
+[2016/10/10 00:06:31 241] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:31 397] network    380  redns  def  open.xf-yun.com  
+[2016/10/10 00:06:31 400] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:31 407] network    173  dns resp  10214  
+[2016/10/10 00:06:31 408] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/10 00:06:31 841] network    380  redns  def  open.xf-yun.com  
+[2016/10/10 00:06:31 847] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:31 861] network    173  dns resp  10214  
+[2016/10/10 00:06:31 867] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/10 00:06:32 238] network    380  redns  def  open.xf-yun.com  
+[2016/10/10 00:06:32 244] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:32 250] network    173  dns resp  10214  
+[2016/10/10 00:06:32 251] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/10 00:06:32 677] network    380  redns  def  open.xf-yun.com  
+[2016/10/10 00:06:32 684] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:32 698] network    173  dns resp  10214  
+[2016/10/10 00:06:32 700] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/10 00:06:33 151] network    380  redns  def  open.xf-yun.com  
+[2016/10/10 00:06:33 157] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:33 169] network    173  dns resp  10214  
+[2016/10/10 00:06:33 171] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/10 00:06:33 616] network    380  redns  def  open.xf-yun.com  
+[2016/10/10 00:06:33 621] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:33 637] network    173  dns resp  10214  
+[2016/10/10 00:06:33 639] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/10 00:06:34 065] network    380  redns  def  open.xf-yun.com  
+[2016/10/10 00:06:34 072] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:34 084] network    173  dns resp  10214  
+[2016/10/10 00:06:34 086] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/10 00:06:34 499] network    380  redns  def  open.xf-yun.com  
+[2016/10/10 00:06:34 505] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:34 519] network    173  dns resp  10214  
+[2016/10/10 00:06:34 521] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/10 00:06:34 922] network    380  redns  def  open.xf-yun.com  
+[2016/10/10 00:06:34 928] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:34 941] network    173  dns resp  10214  
+[2016/10/10 00:06:34 943] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/10 00:06:35 337] network    380  redns  def  open.xf-yun.com  
+[2016/10/10 00:06:35 344] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:35 358] network    173  dns resp  10214  
+[2016/10/10 00:06:35 360] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/10 00:06:35 763] network    380  redns  def  open.xf-yun.com  
+[2016/10/10 00:06:35 768] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:35 781] network    173  dns resp  10214  
+[2016/10/10 00:06:35 783] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/10 00:06:36 171] network    380  redns  def  open.xf-yun.com  
+[2016/10/10 00:06:36 178] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:36 191] network    173  dns resp  10214  
+[2016/10/10 00:06:36 193] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/10 00:06:36 644] network    380  redns  def  open.xf-yun.com  
+[2016/10/10 00:06:36 652] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:36 672] network    173  dns resp  10214  
+[2016/10/10 00:06:36 674] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/10 00:06:41 620] network    380  redns  def  open.xf-yun.com  
+[2016/10/10 00:06:41 637] waiter     196  last gc at  1476029190  
+[2016/10/10 00:06:41 672] network    173  dns resp  10214  
+[2016/10/10 00:06:41 684] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/10 00:19:34 373] waiter     183  start upload timer  
+[2016/10/10 00:19:34 376] waiter     184  true  
+[2016/10/10 00:19:47 380] waiter     183  start upload timer  
+[2016/10/10 00:19:47 383] waiter     184  true  
+[2016/10/10 00:19:53 530] waiter     183  start upload timer  
+[2016/10/10 00:19:53 536] waiter     184  true  
+[2016/10/10 00:19:59 370] waiter     183  start upload timer  
+[2016/10/10 00:19:59 372] waiter     184  true  
+[2016/10/10 00:20:05 035] waiter     183  start upload timer  
+[2016/10/10 00:20:05 038] waiter     184  true  
+[2016/10/10 00:20:10 657] waiter     183  start upload timer  
+[2016/10/10 00:20:10 678] waiter     184  true  

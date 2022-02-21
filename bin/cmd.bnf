@@ -1,0 +1,9 @@
+﻿#BNF+IAT 1.0 UTF-8;
+
+!grammar cmd;
+!slot <cmd>;
+!start <cmdstart>;
+
+<cmdstart>:<cmd>;
+
+<cmd>:自动播放!id(1)|上滑!id(2)|下滑!id(3)|左滑!id(4)|右滑!id(5)|退出!id(999)|不玩了!id(999);
